@@ -67,18 +67,9 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+# {{% alert note %}}
+# Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+# {{% /alert %}}
 
-# [[publication]]
-#  title = "PhD candidate"
-#  publication_types = "2"
-#  location = "Switzerland"
-#  date = "2016-01-07"
-#  publication = "Brain Sciences"
-#  abstract = "lorem ipsum"
-
-#  """
   
   Weilbächer, R. A., & Gluth, S. (2017). The interplay of hippocampus and ventromedial prefrontal cortex in memory-based decision making. Brain sciences, 7(1), 4.
