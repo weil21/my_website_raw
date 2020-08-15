@@ -58,18 +58,6 @@ subtitle = ""
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
-  
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
-+++
-
-# {{% alert note %}}
-# Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-# {{% /alert %}}
-
+  """
   
   Weilbächer, R. A., & Gluth, S. (2017). The interplay of hippocampus and ventromedial prefrontal cortex in memory-based decision making. Brain sciences, 7(1), 4.
