@@ -70,3 +70,13 @@ subtitle = ""
 {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
+
+[[publication]]
+  title = "PhD candidate"
+  publication_types = "2"
+  location = "Switzerland"
+  date = "2016-01-07"
+  publication = "Brain Sciences"
+  abstract = "lorem ipsum"
+
+  """
