@@ -15,4 +15,4 @@ weight = 25
 
 +++
 
-My CV is available in [PDF](cv/cv.pdf) form. (Last updated: August 14, 2020)
+My CV is available in [PDF](cv/academicCV_Weilbaecher.pdf) form. (Last updated: August 14, 2020)
