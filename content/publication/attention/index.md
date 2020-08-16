@@ -14,11 +14,11 @@ authors = ["Regina A. Weilbächer", "Ian Krajbich","Jörg Rieskamp", "Sebastian 
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["2"]
+publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
-publication = "Psychological Science (in press)"
-publication_short = "In press"
+publication = "Article submitted"
+publication_short = ""
 
 # Abstract.
 abstract = "Previous research has shown that episodic memory influences decisions, with people exhibiting too strong preferences for remembered over forgotten options. However, the cognitive mechanisms underlying this memory bias remain elusive. Here, we propose that choosing forgotten (or poorly remembered) options is conceptually similar to choosing options with uncertain outcomes. Following this rationale, we predicted that the memory bias is reduced when options have negative subjective value – analogous to the reflection effect, according to which uncertainty aversion is stronger in gains than in losses. In two preregistered experiments, participants made memory-based decisions between sets of appetitive or aversive stimuli. As predicted, people preferred remembered over forgotten options in the gain domain, but this behavioral pattern reversed in the loss domain. Our results contribute to an increasing understanding of the role of memory in decision making and connect this emerging field to the well-established research on decisions under risk and uncertainty."
@@ -27,7 +27,7 @@ abstract = "Previous research has shown that episodic memory influences decision
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = "https://doi.org/10.31234/osf.io/jsqp4"
+doi = ""
 
 # Is this a featured publication? (true/false)
 featured = true
