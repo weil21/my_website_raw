@@ -3,7 +3,7 @@ title = "The Interplay of Hippocampus and Ventromedial Prefrontal Cortex in Memo
 date = 2017-01-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Regina A. Weilbächer", "Sebastian Gluth"]
+authors = ["Regina A. Weilb{\"{a}}cher", "Sebastian Gluth"]
 
 # Publication type.
 # Legend:
@@ -58,7 +58,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Review Brain Sciences", url = "http://www.mdpi.com/2076-3425/7/1/4l"}]
+url_custom = [{name = "Review Brain Sciences", url = "http://www.mdpi.com/2076-3425/7/1/4"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false
