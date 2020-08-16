@@ -21,7 +21,7 @@ publication = "Article submitted"
 publication_short = ""
 
 # Abstract.
-abstract = ""
+abstract = "Many decisions rely on past experiences. Recent research indicates that people’s choices are"
 
 # Summary. An optional shortened abstract.
 summary = ""
