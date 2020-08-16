@@ -1,9 +1,9 @@
 +++
-title = "The reflection effect in memory-based decisions"
-date = 2020-06-15T16:30:35-05:00
+title = "The influence of visual attention on memory-based preferential choice"
+date = 2020-08-15T16:30:35-05:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Regina A. Weilbächer", "Peter Kraemer", "Sebastian Gluth"]
+authors = ["Regina A. Weilbächer", "Ian Krajbich","Jörg Rieskamp", "Sebastian Gluth"]
 
 # Publication type.
 # Legend:
