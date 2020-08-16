@@ -33,7 +33,7 @@ subtitle = ""
   description = "proficient"
   
 [[feature]]
-  icon = "analytics"
+  icon = "chart-bar"
   icon_pack = "fas"
   name = "Data Visualization"
   description = "expert"  
