@@ -46,7 +46,7 @@ projects = []
 
 # Links (optional).
 url_pdf = ""
-url_preprint = "https://psyarxiv.com/jsqp4/"
+url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
