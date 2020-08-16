@@ -55,7 +55,10 @@ social:
   link: https://github.com/weil21
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/regina-weilbächer/ 
+  link: https://www.linkedin.com/in/regina-weilb%C3%A4cher/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-1955-8664/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
