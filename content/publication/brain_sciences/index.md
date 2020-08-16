@@ -17,7 +17,7 @@ authors = ["Regina A. Weilbächer", "Sebastian Gluth"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In 2016 USENIX Annual Technical Conference"
+publication = "Brain Sciences"
 publication_short = ""
 
 # Abstract.
@@ -27,7 +27,7 @@ abstract = "Episodic memory and value-based decision making are two central and 
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "https://doi.org/10.3390/brainsci7010004"
 
 # Is this a featured publication? (true/false)
 featured = true
