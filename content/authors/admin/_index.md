@@ -23,6 +23,8 @@ bio: My research interests include decision-making, risk-taking behavior, visual
 interests:
 - Decision-Making
 - Memory
+- Attention
+- Risk-taking behavior
 
 education:
   courses:
