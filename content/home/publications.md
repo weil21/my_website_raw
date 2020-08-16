@@ -70,9 +70,5 @@ subtitle = ""
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
  """
-- Weilbächer, R. A., & Gluth, S. (2017). The interplay of hippocampus and ventromedial prefrontal cortex in memory-based decision making. Brain sciences, 7(1), 4.
-- Hoffmann, J. A., von Helversen, B., Weilbächer, R. A., & Rieskamp, J. (2018). Tracing the path of forgetting in rule abstraction and exemplar retrieval. Quarterly Journal of Experimental Psychology, 71(11), 2261-2281.
-- Kraemer, P. M., Weilbächer, R. A., Fontanesi, L., & Gluth, S. (2020). Neural Bases of Financial Decision Making: From Spikes to Large-Scale Brain Connectivity. In Psychological Perspectives on Financial Decision Making (pp. 3-19). Springer, Cham. 
-- Weilbächer, R. A., Kraemer, P. M., & Gluth, S. (in press). The reflection effect in memory-based decisions. Psychological Science. 
 - Weilbächer, R. A., Krajbich, I., Rieskamp J., & Gluth, S. (2020). The role of visual attention on memory-based choice. Manuscript submitted for publication. """
 
