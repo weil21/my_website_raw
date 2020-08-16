@@ -15,7 +15,7 @@ role: PhD candidate in Decision Neuroscience
 # Organizations/Affiliations
 organizations:
 - name: University of Basel
-  url: ""
+  url: "https://psychologie.unibas.ch/de/personen/regina-agnes-weilbaecher/about-me/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include decision-making, risk-taking behavior, visual attention, and their interplay with episodic (long-term) memory.
@@ -46,14 +46,14 @@ social:
   link: "regina.weilbaecher@gmail.com" #'#contact' For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/ReginaAWeilbaecher
+  link: https://twitter.com/RAWeilbaecher
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=de&user=SnWB8yMAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/weil21
-- icon: github
+- icon: linkedin
   icon_pack: fab
   link: www.linkedin.com/in/regina-weilbächer/ 
 # Link to a PDF of your resume/CV from the About widget.
