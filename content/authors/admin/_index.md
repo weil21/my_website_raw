@@ -55,7 +55,7 @@ social:
   link: https://github.com/weil21
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/regina-weilb%C3%A4cher/
+  link: https://www.linkedin.com/in/regina-weilbächer/
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-1955-8664/
