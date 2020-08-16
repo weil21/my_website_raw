@@ -1,9 +1,9 @@
 +++
-title = "MEANTIME: Achieving both minimal energy and timeliness with approximate computing"
+title = "The Interplay of Hippocampus and Ventromedial Prefrontal Cortex in Memory-Based Decision Making"
 date = 2016-06-23T16:30:35-05:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Anne Farrell", "Henry Hoffmann"]
+authors = ["Regina A. Weilbächer", "Sebastian Gluth"]
 
 # Publication type.
 # Legend:
