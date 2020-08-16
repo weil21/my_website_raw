@@ -18,13 +18,25 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "expert"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "python"
+  icon_pack = "fab"
+  name = "python"
+  description = "proficient"
+  
+[[feature]]
+  icon = "git"
+  icon_pack = "fab"
+  name = "git"
+  description = "proficient"
+  
+[[feature]]
+  icon = "analytics"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Data Visualization"
+  description = "expert"  
   
 
 # Uncomment to use emoji icons.
