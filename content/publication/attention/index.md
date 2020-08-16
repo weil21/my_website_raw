@@ -57,7 +57,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Preprint", url = "https://psyarxiv.com/jsqp4/"}]
+# url_custom = [{name = "Preprint", url = "https://psyarxiv.com/jsqp4/"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false
