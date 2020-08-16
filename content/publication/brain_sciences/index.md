@@ -21,7 +21,7 @@ publication = "In 2016 USENIX Annual Technical Conference"
 publication_short = ""
 
 # Abstract.
-abstract = "Energy efficiency and timeliness (i.e., predictable job latency) are two essential – yet opposing – concerns for embedded systems. Hard timing guarantees require conservative resource allocation while energy minimization requires aggressively releasing resources and occasionally violating timing constraints. Recent work on approximate computing, however, opens up a new dimension of optimization: application accuracy. In this paper, we use approximate computing to achieve both hard timing guarantees and energy efficiency. Specifically, we propose MEANTIME: a runtime system that delivers hard latency guarantees and energy-minimal resource usage through small accuracy reductions. We test MEANTIME on a real Linux/ARM system with six applications. Overall, we find that MEANTIME never violates real-time deadlines and sacrifices a small amount (typically less than 2%) of accuracy while reducing energy to 54% of a conservative, full accuracy approach."
+abstract = "Episodic memory and value-based decision making are two central and intensively studied research domains in cognitive neuroscience, but we are just beginning to understand how they interact to enable memory-based decisions. The two brain regions that have been associated with episodic memory and value-based decision making are the hippocampus and the ventromedial prefrontal cortex, respectively. In this review article, we first give an overview of these brain–behavior associations and then focus on the mechanisms of potential interactions between the hippocampus and ventromedial prefrontal cortex that have been proposed and tested in recent neuroimaging studies. Based on those possible interactions, we discuss several directions for future research on the neural and cognitive foundations of memory-based decision making. "
 
 # Summary. An optional shortened abstract.
 summary = ""
@@ -45,12 +45,12 @@ tags = []
 projects = []
 
 # Links (optional).
-url_pdf = "https://www.usenix.org/system/files/conference/atc16/atc16-paper-farrell.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
-url_slides = "https://www.usenix.org/sites/default/files/conference/protected-files/atc16_slides_farrell.pdf"
+url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
