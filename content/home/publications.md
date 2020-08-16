@@ -69,6 +69,5 @@ subtitle = ""
 {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
- """
-- Weilbächer, R. A., Krajbich, I., Rieskamp J., & Gluth, S. (2020). The role of visual attention on memory-based choice. Manuscript submitted for publication. """
+
 
