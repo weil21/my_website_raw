@@ -1,9 +1,9 @@
 +++
-title = "The Interplay of Hippocampus and Ventromedial Prefrontal Cortex in Memory-Based Decision Making"
-date = 2017-01-01T16:30:35-05:00
+title = "{The reflection effect in memory-based decisions"
+date = 2020-06-15T16:30:35-05:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Regina A. Weilbächer", "Sebastian Gluth"]
+authors = ["Regina A. Weilbächer", "Peter Kraemer", "Sebastian Gluth"]
 
 # Publication type.
 # Legend:
@@ -17,17 +17,17 @@ authors = ["Regina A. Weilbächer", "Sebastian Gluth"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Brain Sciences"
-publication_short = ""
+publication = "Psychological Science"
+publication_short = "In press"
 
 # Abstract.
-abstract = "Episodic memory and value-based decision making are two central and intensively studied research domains in cognitive neuroscience, but we are just beginning to understand how they interact to enable memory-based decisions. The two brain regions that have been associated with episodic memory and value-based decision making are the hippocampus and the ventromedial prefrontal cortex, respectively. In this review article, we first give an overview of these brain–behavior associations and then focus on the mechanisms of potential interactions between the hippocampus and ventromedial prefrontal cortex that have been proposed and tested in recent neuroimaging studies. Based on those possible interactions, we discuss several directions for future research on the neural and cognitive foundations of memory-based decision making. "
+abstract = "Previous research has shown that episodic memory influences decisions, with people exhibiting too strong preferences for remembered over forgotten options. However, the cognitive mechanisms underlying this memory bias remain elusive. Here, we propose that choosing forgotten (or poorly remembered) options is conceptually similar to choosing options with uncertain outcomes. Following this rationale, we predicted that the memory bias is reduced when options have negative subjective value – analogous to the reflection effect, according to which uncertainty aversion is stronger in gains than in losses. In two preregistered experiments, participants made memory-based decisions between sets of appetitive or aversive stimuli. As predicted, people preferred remembered over forgotten options in the gain domain, but this behavioral pattern reversed in the loss domain. Our results contribute to an increasing understanding of the role of memory in decision making and connect this emerging field to the well-established research on decisions under risk and uncertainty."
 
 # Summary. An optional shortened abstract.
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = "https://doi.org/10.3390/brainsci7010004"
+doi = "https://doi.org/10.31234/osf.io/jsqp4"
 
 # Is this a featured publication? (true/false)
 featured = true
@@ -46,7 +46,7 @@ projects = []
 
 # Links (optional).
 url_pdf = ""
-url_preprint = ""
+url_preprint = "https://psyarxiv.com/jsqp4/"
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -57,7 +57,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Review", url = "http://www.mdpi.com/2076-3425/7/1/4"}]
+url_custom = [{name = "Preprint", url = "https://psyarxiv.com/jsqp4/"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false
