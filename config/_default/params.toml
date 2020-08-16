@@ -100,7 +100,7 @@ address = {street = "Missionsstrasse 62A", city = "Basel", region = "BS", postco
 coordinates = {latitude = "47.561381", longitude = "7.575520"}
 
 # Directions for visitors to locate you.
-directions = "Office 205 on Floor 2"
+directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
