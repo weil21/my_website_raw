@@ -1,6 +1,6 @@
 +++
 title = "The Interplay of Hippocampus and Ventromedial Prefrontal Cortex in Memory-Based Decision Making"
-date = 2017
+date = 2017-01-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Regina A. Weilbächer", "Sebastian Gluth"]
