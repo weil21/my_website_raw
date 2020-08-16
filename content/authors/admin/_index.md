@@ -72,4 +72,4 @@ user_groups:
 - Visitors
 ---
 
-Regina A. Weilbächer is a PhD candidate at the Decision Neuroscience Lab at University of Basel. Her research interests include decision-making, attention and memory. 
+I am a PhD candidate at the Decision Neuroscience Lab at University of Basel. My research interests include decision-making, attention and memory. 
