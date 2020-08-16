@@ -21,7 +21,7 @@ publication = "Article submitted"
 publication_short = ""
 
 # Abstract.
-abstract = "Many decisions rely on past experiences. Recent research indicates that people’s choices are"
+abstract = "Many decisions rely on past experiences. Recent research indicates that people’s choices are biased toward choosing better-remembered options, even if these options are comparatively unattractive. In the current study, we used eye tracking to compare the influence of visual attention on preferential choice between memory-based and non-memory-based decisions. Participants completed the remember-and-decide task. In this task, they first learned associations between screen locations and snack items."
 
 # Summary. An optional shortened abstract.
 summary = ""
