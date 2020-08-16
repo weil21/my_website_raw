@@ -67,7 +67,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "", url = ""}]
+url_custom = [{name = "", url = ""}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false
