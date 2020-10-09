@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Decision Neuroscience
     institution: University of Basel
-    year: due for submission Sept 2020
+    year: thesis sumbitted, defense November 23, 2020
   - course: MSc in Neuroscience and Clinical Psychology
     institution: University of Basel
     year: 2016
@@ -77,4 +77,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate at the Decision Neuroscience Lab at University of Basel. My research interests include decision-making, attention and memory. 
+I am cognitive scientist at the Decision Neuroscience Lab at University of Basel. My research interests include decision-making, attention and memory. 
