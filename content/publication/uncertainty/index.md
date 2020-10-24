@@ -27,7 +27,7 @@ abstract = "Previous research has shown that episodic memory influences decision
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = "https://doi.org/10.31234/osf.io/jsqp4"
+doi = "https://doi.org/10.1177/0956797620956315/"
 
 # Is this a featured publication? (true/false)
 featured = true
@@ -45,7 +45,7 @@ tags = []
 projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://doi.org/10.1177/0956797620956315/"
 url_preprint = "https://psyarxiv.com/jsqp4/"
 url_code = "https://osf.io/x935r/"
 url_dataset = ""
@@ -57,7 +57,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Online Publication", url = "https://doi.org/10.1177/0956797620956315"}]
+url_custom = [{name = "Online Publication", url = "https://doi.org/10.1177/0956797620956315/"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false
