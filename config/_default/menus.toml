@@ -7,20 +7,27 @@
   name = "Home"
   url = "#about"
   weight = 10
-
+  
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+[[main]]
+  name = "CV"
+  url = "#cv"#"files/academicCV_Weilbaecher.pdf"
+  weight = 20
+  
 [[main]]
   name = "Skills"
   url = "#skills"
   weight = 30
-
-[[main]]
-  name = "Publications"
-  url = "#publications"
-  weight = 40
   
 [[main]]
   name = "Projects"
   url = "#projects"
+  weight = 40
+  
+[[main]]
+  name = "Publications"
+  url = "#publications"
   weight = 50
   
 [[main]]
@@ -28,9 +35,4 @@
   url = "#contact"
   weight = 60
 
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-[[main]]
-  name = "CV"
-  url = "#cv"#"files/academicCV_Weilbaecher.pdf"
-  weight = 20
+
