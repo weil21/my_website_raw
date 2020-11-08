@@ -75,3 +75,4 @@ subtitle = ""
  css_class = ""
 +++
 
+An overview over my projects can be found [here](project/featured.png) form. (Last updated: November 08, 2020)
