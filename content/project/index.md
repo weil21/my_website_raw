@@ -6,7 +6,7 @@ title: Projects
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view: 4
+view: 3
 
 # Optional header image (relative to `static/media/` folder).
 header:
@@ -19,9 +19,12 @@ header:
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
   placement: 1
-  caption: "Photo by [Academic](https://sourcethemes.com/academic/)"
+  caption: "Ovreview over 4 projects at University of Basel."
   focal_point: "Center"
   preview_only: false
-  alt_text: An optional description of the image for screen readers.
 ---
-Current project on comparing choices across and within domains
+During the last 4 years I have been working on the following projects: 
+- comparing choices across and within domains
+- the role of uncertainty on memory-based choice
+- the role of attention on memory-based choice
+- the interplay of two brain regions in memory-based choice
