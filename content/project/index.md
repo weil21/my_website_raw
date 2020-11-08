@@ -19,7 +19,7 @@ header:
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
   placement: 1
-  caption: "Ovreview over 4 projects at University of Basel."
+  caption: "My projects at University of Basel."
   focal_point: "Center"
   preview_only: false
 ---
