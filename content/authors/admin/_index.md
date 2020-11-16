@@ -77,4 +77,4 @@ user_groups:
 - Visitors
 ---
 
-I am cognitive scientist at the Decision Neuroscience Lab at University of Basel. My research interests include decision-making, attention and memory. 
+I am a cognitive scientist at the Decision Neuroscience Lab at the University of Basel. My research interests include decision-making, attention, and memory. 
