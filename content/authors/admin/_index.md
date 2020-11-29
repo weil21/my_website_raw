@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD candidate in Decision Neuroscience
+role: Postdoctoral Researcher in Decision Neuroscience
 
 # Organizations/Affiliations
 organizations:
@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Decision Neuroscience
     institution: University of Basel
-    year: thesis sumbitted, defense November 23, 2020
+    year: 2020
   - course: MSc in Neuroscience and Clinical Psychology
     institution: University of Basel
     year: 2016
@@ -77,4 +77,4 @@ user_groups:
 - Visitors
 ---
 
-I am a cognitive scientist at the Decision Neuroscience Lab at the University of Basel. My research interests include decision-making, attention, and memory. 
+I am a cognitive scientist at the Decision Neuroscience Lab at the University of Basel. My research interests include decision-making, risk-taking behavior, visual attention, and their interplay with episodic (long-term) memory.
