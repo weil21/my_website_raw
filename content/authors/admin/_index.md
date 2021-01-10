@@ -14,7 +14,7 @@ role: User Experience Architect (Junior)
 
 # Organizations/Affiliations
 organizations:
-- name: Interdiscount / microspt.ch
+- name: Interdiscount / microspot.ch
   # url: "https://psychologie.unibas.ch/de/personen/regina-agnes-weilbaecher/about-me/"
 
 # Short bio (displayed in user profile at end of posts)
