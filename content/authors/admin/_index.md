@@ -14,8 +14,8 @@ role: User Experience Architect (Junior)
 
 # Organizations/Affiliations
 organizations:
-- name: University of Basel
-  url: "https://psychologie.unibas.ch/de/personen/regina-agnes-weilbaecher/about-me/"
+- name: Interdiscount / microspt.ch
+  # url: "https://psychologie.unibas.ch/de/personen/regina-agnes-weilbaecher/about-me/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include decision-making, risk-taking behavior, visual attention, and their interplay with episodic (long-term) memory.
