@@ -77,5 +77,5 @@ user_groups:
 - Visitors
 ---
 
-I am a User Experience Architect at <a href="https://www.interdiscount.ch/de">Interdiscount</a>/<a href="https://www.microspot.ch/de">microspot.ch</a>. 
+I am a User Experience Architect at <a target="_blank" rel="noopener noreferrer" href="https://www.interdiscount.ch/de">Interdiscount</a>/<a target="_blank" rel="noopener noreferrer" href="https://www.microspot.ch/de">microspot.ch</a>. 
 My role is to investigate how we can improve our customers' experience, by for example running questionnaires or performing usability tests.
