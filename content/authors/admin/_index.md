@@ -77,4 +77,5 @@ user_groups:
 - Visitors
 ---
 
-I am a cognitive scientist at the Decision Neuroscience Lab at the University of Basel. My research interests include decision-making, risk-taking behavior, visual attention, and their interplay with episodic (long-term) memory.
+I am a User Experience Architect at Interdiscount/microspot.ch (https://www.interdiscount.ch/de; https://www.microspot.ch/de). 
+My role is to investigate how we can improve our customers' experience, by for example running questionnaires or performing usability tests.
