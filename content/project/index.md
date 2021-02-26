@@ -36,8 +36,8 @@ In this pre-registered project I am currently investigating what changes in the 
 - <b> The interplay of two brain regions in memory-based choice </b><br>
 In this project I reviewed the literature on the roles of the Hippocampus (classically known as the region for episodic memory consolidation and retrieval) and the ventromedial prefrontal cortex (classically known as the region responsible to evaluate choice options). Importantly, I was interesed on possible mechanisms how these two regions may interact in memory-based choice.
 
-#UMFRAGE MSP
+
 #<script>(function(t,e,s,o){var n,a,c;t.SMCX=t.SMCX||[],e.getElementById(o)||(n=e.getElementsByTagName(s),a=n[n.length-#1],c=e.createElement(s),c.type="text/javascript",c.async=!0,c.id=o,c.src="https://widget.surveymonkey.com/collect/website/js/tRaiETqnLgj758hTBazgd6CMFpew_2Fr2Nk#49S4GeQJ8e05jwDThyZJuJLK51b8_2Fu3.js",a.parentNode.insertBefore(c,a))})(window,document,"script","smcx-sdk");</script>
 
-#UMFRAGE ID
+
 <script>(function(t,e,s,o){var n,a,c;t.SMCX=t.SMCX||[],e.getElementById(o)||(n=e.getElementsByTagName(s),a=n[n.length-1],c=e.createElement(s),c.type="text/javascript",c.async=!0,c.id=o,c.src="https://widget.surveymonkey.com/collect/website/js/tRaiETqnLgj758hTBazgd11qUN2_2F3Q3RUG7cjWzACxya9_2FwQUdkCCd8TdbtJghxc.js",a.parentNode.insertBefore(c,a))})(window,document,"script","smcx-sdk");</script>
