@@ -17,7 +17,7 @@ authors = ["Regina A. Weilbächer", "Ian Krajbich","Jörg Rieskamp", "Sebastian 
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Cognition"
+publication = "Cognition (2021)"
 publication_short = ""
 
 # Abstract.
