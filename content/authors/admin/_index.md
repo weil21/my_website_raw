@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: User Experience Architect (Junior)
+role: User Experience Architect 
 
 # Organizations/Affiliations
 organizations:
